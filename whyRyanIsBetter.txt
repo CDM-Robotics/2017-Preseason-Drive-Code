@@ -1,7 +1,14 @@
 I'll make this simple,
 
 -Funnier
+  no
 -Handsomer
--Wear's a real programmer's clothes--where's your hoodie @worseRyan?
+  no
+-Wear's a real programmer's clothes--where's your hoodie @worseRyan?  
+  Wearing it right now
 -Uses Vim for stuff like this
+  Doing things in command line for the sake of command line is dumb
 -Linux...need I say more?
+  You're probably not even using gentoo, what are you doing with your life
+  
+  Clearly can't follow directions, I said to submit a pull request, not just branch and merge. This must be indicative of all the failures in your life, such as the failure to recognize the superior Ryan.
